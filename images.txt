@@ -6,8 +6,8 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 # dify
-ubuntu/squid
-langgenius/dify-sandbox
-langgenius/dify-api:0.15.1
-langgenius/dify-web:0.15.1
+# ubuntu/squid
+# langgenius/dify-sandbox
+langgenius/dify-api
+# langgenius/dify-web
 
