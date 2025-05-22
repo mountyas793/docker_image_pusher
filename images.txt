@@ -5,10 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-# dify
-# ubuntu/squid
-# langgenius/dify-sandbox
-# langgenius/dify-api
-# langgenius/dify-web
-bitnami/mysql:8.4.3-debian-12-r6
+python:3.13-alpine
 
