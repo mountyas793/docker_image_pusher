@@ -5,5 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-unclecode/crawl4ai:0.6.0-rN
+swr.cn-east-3.myhuaweicloud.com/kubesre/docker.io/unclecode/crawl4ai:0.6.0-r2
 
