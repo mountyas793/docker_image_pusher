@@ -5,5 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+mysql:8.4.3-oraclelinux9
+
 # swr.cn-east-3.myhuaweicloud.com/kubesre/docker.io/unclecode/crawl4ai:0.6.0-r2
-qdrant/qdrant:latest
+# qdrant/qdrant:latest
